@@ -90,11 +90,11 @@ SIRA combines both quantitative and qualitative elements. The quantitative parts
 
 ## 4. Digital Questionnaire 
 
-The digital questionnaire was developed in [ActivityInfo][https://www.activityinfo.org/c/c714p9ilm0u2srt26o/d39a06] and subsequently ported to [Kobo][https://eu.kobotoolbox.org/#/forms/a8RZo34RjzEqEuywMiBvqx]. The digital surveys can be accessed by following the respective links. The blueprint for re-creating SIRA are also provided here as tables for subsequent conversion to .xlsx (ActivityInfo) or .xlsx (Kobo) files.
+The digital questionnaire was developed in [ActivityInfo](https://www.activityinfo.org/c/c714p9ilm0u2srt26o/d39a06) and subsequently ported to [Kobo](https://eu.kobotoolbox.org/#/forms/a8RZo34RjzEqEuywMiBvqx). The digital surveys can be accessed by following the respective links. The blueprint for re-creating SIRA are also provided here as tables for subsequent conversion to .xlsx (ActivityInfo) or .xlsx (Kobo) files.
 
 
 ## 5. Data Analysis
 
-Ultimately the data analysis needs will depend on the surveying organisation and any changes made to SIRA to adapt it to specific requirements. The data generated through the pilot testing of SIRA in Cabo Delagdo, Mozambique in 2025 as part of the Data that Matters project can be found on UN OCHA's [Humanitarian Data Exchange (HDX)][https://data.humdata.org/dataset/sira-disability-and-older-age-dataset-metuge-and-pemba-cabo-delgado-mozambique-may-2024]
+Ultimately the data analysis needs will depend on the surveying organisation and any changes made to SIRA to adapt it to specific requirements. The data generated through the pilot testing of SIRA in Cabo Delagdo, Mozambique in 2025 as part of the Data that Matters project can be found on UN OCHA's [Humanitarian Data Exchange (HDX)](https://data.humdata.org/dataset/sira-disability-and-older-age-dataset-metuge-and-pemba-cabo-delgado-mozambique-may-2024)
 
-Similarly, [an interactive data analysis dashboard][https://n-merlaint.shinyapps.io/Analysis_Dashboard/] was developed as part of the Data that Matters project. The R shiny code is provided as part of this GitHub repository.
+Similarly, [an interactive data analysis dashboard](https://n-merlaint.shinyapps.io/Analysis_Dashboard/) was developed as part of the Data that Matters project. The R shiny code is provided as part of this GitHub repository.
